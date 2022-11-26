@@ -1,7 +1,7 @@
 
 Hi, I'm Jirayut Visetsillapanont!
 
-I work as a web and app designer with Ul/Ux design skills (front-end designer). I’m currently learning Front-end development for both website and application.
+I work as a web and app designer with Ul/UX design skills (front-end designer). I’m currently learning Front-end development for both website and application.
 
 I'm presently in UK.
 
